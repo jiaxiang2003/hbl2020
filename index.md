@@ -12,6 +12,7 @@ Try to finalise STW2 with groupmates, packtpub chapter on javascript and sql
 ![Evidence for Javascript Packthub](http://https://user-images.githubusercontent.com/61258340/84212385-4386c480-aaf0-11ea-9fe2-6397e353d7a1.png)
 ![Evidence for ML for everyone Datacamp](http://https://user-images.githubusercontent.com/61258340/84223064-a0dc3f00-ab0b-11ea-8e59-2e298dde7f15.png)
 ![Video to AR and unity tutorial for the app](http://https://www.youtube.com/watch?v=BeoY5mRm1UY)
+![Evidence for intro to python datacamp](https://user-images.githubusercontent.com/61258340/84227240-6d52e200-ab16-11ea-8642-126be0341462.png)
 
 
 Holidays: 
