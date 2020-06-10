@@ -8,9 +8,7 @@ CS50: Intro to computer science should be done until week 4 or 5 (did not finish
 
 Try to finalise STW2 with groupmates, packtpub chapter on javascript and sql 
 
-
-     <img width="399" alt="Screenshot 2020-06-10 at 08 27 30" src="https://user-images.githubusercontent.com/61258340/84213845-4aafd180-aaf4-11ea-94f3-aac37e18da56.png">
-     <img width="389" alt="Screenshot 2020-06-10 at 07 58 37" src="https://user-images.githubusercontent.com/61258340/84212385-4386c480-aaf0-11ea-9fe2-6397e353d7a1.png">
+![Evidence](http://https://user-images.githubusercontent.com/61258340/84213845-4aafd180-aaf4-11ea-94f3-aac37e18da56.png)
 
 Holidays: 
 do more courses on datacamp and finish those left halfway, and ensure that i understand the different things
